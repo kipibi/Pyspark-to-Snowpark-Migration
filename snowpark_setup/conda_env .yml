@@ -1,0 +1,13 @@
+name: snowpark_migration
+channels:
+  - https://repo.anaconda.com/pkgs/snowflake
+  - nodefaults
+dependencies:
+  - python=3.8
+  - pip
+  - pip:
+      # Snowpark
+      - snowflake-snowpark-python[pandas]==1.3.0
+      # Basics
+      - pandas==1.4.3
+      - numpy==1.22.3
