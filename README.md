@@ -8,6 +8,6 @@ Snowpark at its core provides an API that developers can use to construct DataFr
 | --------------------------------|------------------------------------------------------------------------------------------------------------------ |
 | `data`                          | contains datasets that are required to complete this quickstart                                                   |
 | `data_migration`                | data migration notebooks                                                                                          |
-| `pyspark_to_snowpark_migration` | code related to pyspark to snowpark python migration                                                              |
+| `code`                          | code related to pyspark to snowpark python migration                                                              |
 | `snowpark_setup`                | snowpark setup related files                                                                                      |
 | `testing`                       | testing related files and notebooks                                                                               |
