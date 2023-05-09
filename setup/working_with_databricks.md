@@ -6,7 +6,7 @@ Data loading from local system to DBFS
 1. Select data tab on the left panel and click on Create Table 
 ![1](https://github.com/kipibi/Pyspark-to-Snowpark-Migration/assets/14852755/8bdab15a-9f32-49c3-b996-2d8022a4f642)
 
-2. click on Upload File tab and upload file from local to Databricks
+2. click on **Upload File tab** and upload file from local to Databricks
 ![2](https://github.com/kipibi/Pyspark-to-Snowpark-Migration/assets/14852755/ad073f3b-b4ac-42df-8223-05e3ec536730)
 
 ## Cluster creation
