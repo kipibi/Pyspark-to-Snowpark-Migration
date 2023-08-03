@@ -13,12 +13,12 @@
 ![1](https://github.com/kipibi/Pyspark-to-Snowpark-Migration/blob/main/images/working_with_anaconda/1.png)
 
 8. Click on **Install**.
-![2](https://github.com/kipibi/Pyspark-to-Snowpark-Migration/assets/14852755/560836db-a74c-479e-ae4a-a8a2dab865e5)
+![2](https://github.com/kipibi/Pyspark-to-Snowpark-Migration/blob/main/images/working_with_anaconda/2.png)
 
 9. Click **Install**. If you want to watch the packages Anaconda is installing, click Show Details.
 10. Click **Next**.
 11. After a successful installation you will see the “Thanks for installing Anaconda” dialog box:
-![3](https://github.com/kipibi/Pyspark-to-Snowpark-Migration/assets/14852755/07571878-6da8-4f5c-977b-281708582606)
+![3](https://github.com/kipibi/Pyspark-to-Snowpark-Migration/blob/main/images/working_with_anaconda/3.png)
 
 12. If you wish to read more about Anaconda.org and how to get started with Anaconda, check the boxes “Anaconda Distribution Tutorial” and “Learn more about Anaconda”. Click the Finish button.
 13. [Verify your installation](https://docs.anaconda.com/free/anaconda/install/verify-install/).
