@@ -10,7 +10,7 @@
 5. It is recommended that you install for **Just Me**, which will install Anaconda Distribution to just the current user account. Only select an install for All Users if you need to install for all users’ accounts on the computer (which requires Windows Administrator privileges).
 6. Click **Next**.
 7. Select a destination folder to install Anaconda and click **Next**. Install Anaconda to a directory path that does not contain spaces or unicode characters. 
-![1](https://github.com/kipibi/Pyspark-to-Snowpark-Migration/assets/14852755/2851abf3-0641-41cd-8ccc-32197c4098e3)
+![1](https://github.com/kipibi/Pyspark-to-Snowpark-Migration/blob/main/images/working_with_anaconda/1.png)
 
 8. Click on **Install**.
 ![2](https://github.com/kipibi/Pyspark-to-Snowpark-Migration/assets/14852755/560836db-a74c-479e-ae4a-a8a2dab865e5)
