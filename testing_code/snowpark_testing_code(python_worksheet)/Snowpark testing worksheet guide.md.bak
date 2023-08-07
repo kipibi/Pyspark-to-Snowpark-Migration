@@ -5,11 +5,4 @@ Save the  !quickstart_snowpark_worksheet(https://github.com/kipibi/Pyspark-to-Sn
 
 ### Note: Create an internal stage in the snowpark.dev schema .
 
-1. 
-
-2.
-
-3.
-
-
 Open up the python worksheet  !snowpark_testing_worksheet(https://github.com/kipibi/Pyspark-to-Snowpark-Migration/blob/main/testing_code/snowpark_testing_code(python_worksheet)/Snowpark_testing_worksheet.sql) and run the code.
